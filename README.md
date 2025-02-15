@@ -9,6 +9,7 @@
 🔹 📚 Sempre estudando e evoluindo<br>
 
 Confira meus repositórios e sinta-se à vontade para contribuir ou trocar uma ideia! 🚀</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByLuiz&show_icons=true&theme=github_dark)
 <h2>🚀 Linguagens e Ferramentas que eu uso:</h2>
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
