@@ -23,30 +23,6 @@ Tenho perfil curioso, gosto de aprender coisas novas e estou sempre buscando des
 )
 
 ---
-
-##  Objetivos
-
-Atualmente estou focado em:
-
-* Conquistar minha primeira oportunidade de estágio na área de tecnologia;
-* Aprimorar meus conhecimentos em Desenvolvimento de Software;
-* Expandir minhas habilidades em Cibersegurança;
-* Construir projetos que agreguem experiência prática ao meu portfólio.
-
----
-
-
-##  Idiomas
-
-[![card](https://github-readme-stats.vercel.app/api?username=CodeByLuiz&theme=default)](https://github.com/anuraghazra/github-readme-stats)
----
-
-##  Interesses
-
-Além da tecnologia, gosto de desenvolver projetos pessoais, explorar novas ferramentas e aprender sobre diferentes áreas da computação.
-
----
-
-## 📫 Contato
-
-E-mail: [ssantos.lz1509@gmail.com](mailto:ssantos.lz1509@gmail.com)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF2YnVuNzhzaXVuNTNmOTRwc2htbGh3NzFpZmZvdWFrdjQzOGJldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f31DK1KpGsyMU/giphy.gif" width="700">
+</p>
