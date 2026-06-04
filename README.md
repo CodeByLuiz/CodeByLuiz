@@ -9,18 +9,19 @@ Tenho perfil curioso, gosto de aprender coisas novas e estou sempre buscando des
 ---
 
 ## Tecnologias e Ferramentas
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white	
+)![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+)![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+)![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+)![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+)![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+)![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+)![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
+)![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white
+)![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black
+)
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white	
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black
 ---
 
 ##  Objetivos
