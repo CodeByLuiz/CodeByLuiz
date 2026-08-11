@@ -6,7 +6,7 @@ Sou estudante de **Segurança da Informação** na Fatec de Araraquara, apaixona
 
 Tenho perfil curioso, gosto de aprender coisas novas e estou sempre buscando desenvolver minhas habilidades técnicas através de estudos e projetos práticos.
 
----
+
 
 ## Tecnologias e Ferramentas
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
