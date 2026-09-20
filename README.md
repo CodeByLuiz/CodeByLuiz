@@ -1,23 +1,5 @@
-# Olá, eu sou Luiz André Almeida dos Santos 👋
-
-##  Sobre Mim
-
-Sou estudante de **Segurança da Informação** na Fatec de Araraquara, apaixonado por tecnologia e aprendizado contínuo. Atualmente estou construindo minha carreira na área de TI e busco minha **primeira oportunidade de estágio**, com interesse tanto em **Desenvolvimento de Software** quanto em **Cibersegurança**.
-
-Tenho perfil curioso, gosto de aprender coisas novas e estou sempre buscando desenvolver minhas habilidades técnicas através de estudos e projetos práticos.
 
 
+Hello, my name is **Luiz André**👋. I am an **information security student**, and my focus is on studying **quality software development**.
 
-## Tecnologias e Ferramentas
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-) ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
-) ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
-) ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white
-) ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black
-)
 
----
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF2YnVuNzhzaXVuNTNmOTRwc2htbGh3NzFpZmZvdWFrdjQzOGJldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f31DK1KpGsyMU/giphy.gif" width="700">
-</p>
